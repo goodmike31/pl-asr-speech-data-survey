@@ -20,12 +20,10 @@ Polish ASR Speech datasets survey
 ## Information sources
 * Language Data Repositories
   * LDC Data Catalog
-  * European Language Resources Association ELRA
-    * META-SHARE repository
-  *  CLARIN ERIC
-    * Virtual Language Observatory
-  * CLARIN-PL
-    * D-space
+  * ELRA Catalog
+  * META-SHARE repository
+  *  CLARIN ERIC - Virtual Language Observatory
+  * CLARIN-PL - D-space
   * Open Science Resource Atlas 2.0 (AZON)
   * PELCRA
   * Hamburger Zentrum fur Sprach Corpora HZSK
