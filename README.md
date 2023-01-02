@@ -4,7 +4,7 @@ The survey goal is source and organize information about speech datasets produce
 
 # Content
 - Survey of publicly available information identified 48 polish speech datasets intended for ASR development. <br>
-- Information about datasets was manually reviewed and unified following taxonomy of 57 attributes. (see [Taxonomy])
+- Information about datasets was manually reviewed and unified following taxonomy of 57 attributes. (see [Taxonomy](#Taxonomy)
 - Missing information or additional attributes were annotated manually.
 
 # Taxonomy
