@@ -9,7 +9,7 @@
 - One thousand hours worth speech datasets are available online free of charge and over 600 hours of datasets through commercial providers.
 - For details about survey please refert to publication: 
 - Polish ASR datasets catalog is available as:
-   - [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)    - [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
+..-[Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)    ..-[TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
 
 # Survey design
 
