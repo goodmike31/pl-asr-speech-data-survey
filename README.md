@@ -6,7 +6,7 @@ Polish ASR Speech datasets survey
 - Identification of ASR speech datasets for Polish, which are freely available for the reseach community.
 <br>
 
-# TLDR 
+# Survey results 
 - The **total** **size** of **documented Polish ASR speech data** amounts to over **20000** **hours** of **audio** and nearly **2500** **hours** of **transcribed** speech.
 - **One thousand hours** worth speech data are **available** online **free of charge ** 
 - Over **600 hours** of speech data available through commercial providers.
@@ -18,6 +18,22 @@ Polish ASR Speech datasets survey
 # Survey design
 
 ## Information sources
+* Language Data Repositories
+  * LDC Data Catalog
+  * European Language Resources Association ELRA
+    * META-SHARE repository
+  *  CLARIN ERIC
+    * Virtual Language Observatory
+  * CLARIN-PL
+    * D-space
+  * Open Science Resource Atlas 2.0 (AZON)
+  * PELCRA
+  * Hamburger Zentrum fur Sprach Corpora HZSK
+* Other
+  * PolEval
+  * Search (keywords Polish, ASR, speech corpus, dataset) etc.
+  * Kaggle
+  * Hugging face
 
 ## Taxonomy
 |Dataset descriptor                 |Purpose                                                                             |Allowed values                                                                    |
