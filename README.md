@@ -1,13 +1,21 @@
-Survey of Polish ASR speech datasets
-# Goal
-The survey goal is source and organize information about speech datasets produced within 3 decades of ASR R&D in Poland.<br>
 
-# Content
-- Survey of publicly available information identified 48 polish speech datasets intended for ASR development. <br>
-- Information about datasets was manually reviewed and unified following taxonomy of 57 attributes. (see [Taxonomy](# Taxonomy))
-- Missing information or additional attributes were annotated manually.
+# Survey goals
+- Providing reference source of information about all available Polish ASR speech datasets up-to-date.
+- Creating taxonomy and catalog enabling identification of datasets, which are freely available for R&D communities.
+<br>
 
-# Taxonomy
+# TLDR 
+- The total size of documented Polish ASR speech datasets amounts to over 20000 hours of audio and nearly 2500 hours of transcribed speech.
+- One thousand hours worth speech datasets are available online free of charge and over 600 hours of datasets through commercial providers.
+- For details about survey please refert to publication: 
+- Polish ASR datasets catalog is available as:
+  - [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)   - [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
+
+# Survey design
+
+## Information sources
+
+## Taxonomy
 |Dataset descriptor                 |Purpose                                                                             |Allowed values                                                                    |
 |-----------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |Dataset name                       |Full name of the speech corpus                                                      |[a-z A-Z\-\_0-9]                                                                  |
@@ -62,6 +70,4 @@ The survey goal is source and organize information about speech datasets produce
 |Age balanced                       |                                                                                    |description                                                                       |
 
 
-# Results
-- The total size of documented Polish ASR speech datasets amounts to over 20000 hours of audio and nearly 2500 hours of transcribed speech.<br>
-- One thousand hours worth speech datasets are available online free of charge and over 600 hours of datasets through commercial providers.
+# Survey results
