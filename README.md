@@ -7,10 +7,11 @@ Polish ASR Speech datasets survey
 <br>
 
 # Survey results 
+- 48 datasets were identified and described with up to 57 manually annotated attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
 - The **total** **size** of **documented Polish ASR speech data** amounts to over **20000** **hours** of **audio** and nearly **2500** **hours** of **transcribed** speech.
 - **One thousand hours** worth speech data are **available** online **free of charge ** 
 - Over **600 hours** of speech data available through commercial providers.
-* For details about survey please refert to publication: 
+* Detailed results are available: 
 * Polish ASR speech datasets catalog is available as:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
@@ -22,7 +23,7 @@ Polish ASR Speech datasets survey
   * LDC Data Catalog
   * ELRA Catalog
   * META-SHARE repository
-  *  CLARIN ERIC - Virtual Language Observatory
+  * CLARIN ERIC - Virtual Language Observatory
   * CLARIN-PL - D-space
   * Open Science Resource Atlas 2.0 (AZON)
   * PELCRA
@@ -34,6 +35,17 @@ Polish ASR Speech datasets survey
   * Hugging face
 
 ## Taxonomy
+- The dataset cards taxonomy consists of 57 attributes.
+- Each dataset is described ain terms of:
+  - authorship, creation date, funding etc.
+  - availability, licensing, pricing etc.
+  - content e.g. audio format, number of speakers recorded, meta-data distributions, etc.
+- Values of attributes not reported by dataset authors, publishers or researchers is recreated, when feasible (e.g. number of recordings)
+- Below table shows the dataset card completion rates for manually annotated attributes is.
+  - (tabelka)
+
+- Full taxonomy is presented in the table below.
+
 |Dataset descriptor                 |Purpose                                                                             |Allowed values                                                                    |
 |-----------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |Dataset name                       |Full name of the speech corpus                                                      |[a-z A-Z\-\_0-9]                                                                  |
