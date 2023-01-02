@@ -4,3 +4,4 @@ plugins:
 title: Polish ASR speech datasets survey
 description: Polsh ASR speech datasets survey
 show_downloads: true
+markdown: GFM
