@@ -3,7 +3,7 @@ Polish ASR Speech datasets survey
 # Survey goals
 - Organization of publicly available information about Polish ASR speech datasets.
 - Providing ASR community with the collectively maintained, up-to-date source of information about available resources.
-- Identification of ASR speech datasets for Polish, which are freely available for the reseach community.
+- Identification of ASR speech datasets for Polish, which are freely available for reseach and commercial purposes.
 <br>
 
 # Survey results 
