@@ -16,13 +16,16 @@ Polish ASR Speech datasets survey
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
-
-# Contributions
-
+  
+# How to contribute to the Polish ASR speech datasets catalog 
 
 
 # Survey design  
 
+## Dataset charateristics analysis process
+- Publicly available Infomration sources were analyzed, annotated and standardized according to the Taxonomy
+- Additionaly, the content of publicly available datasets was analyzed automatically
+ 
 ## Information sources
 * Language Data Repositories
   * LDC Data Catalog
@@ -104,8 +107,6 @@ Polish ASR Speech datasets survey
 |Age coverage                       |Is meta-data about speaker age present?                                             |Percent                                                                           |
 |Age balanced                       |                                                                                    |description                                                                       |
 
-## Process
-- Publicly available documentation was analyzed and annotated manualy
-- Content of selected datasets, which were available in a public domain, was analyzed automatically
+
 
 ## Limitations
