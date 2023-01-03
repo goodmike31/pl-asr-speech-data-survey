@@ -14,6 +14,7 @@ Polish ASR Speech datasets survey
 - Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
 * Detailed analysis results are available at: 
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
+  * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
   
 # How to contribute to the Polish ASR speech datasets catalog 
