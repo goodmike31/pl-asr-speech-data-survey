@@ -10,17 +10,19 @@ Polish ASR Speech datasets survey
 - **Forty-eight datasets** intended for Polish ASR development were identified
 - The **total** **size** of **documented Polish ASR speech data** amounts to over **20000** **hours** of **audio** and nearly **2500** **hours** of **transcribed** speech.
 - **One thousand hours** worth speech data are **available** online **free of charge ** 
-- Over **600 hours** of speech data available through commercial providers.
+- Over **600 hours** of speech data available through commercial providers. See [Public domain PL ASR speech datasets]
 - Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
 * Detailed analysis results are available at: 
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
-  * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
   
 # How to contribute to the Polish ASR speech datasets catalog 
 
+# How to identify public domain PL ASR speech datasets
+1. Open [Catalog](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
+2. Filter results by column "Usage cost" by allowing only "free" values
 
-# Survey design  
+# Addendum - Survey design  
 
 ## Dataset charateristics analysis process
 - Publicly available Infomration sources were analyzed, annotated and standardized according to the Taxonomy
@@ -106,7 +108,5 @@ Polish ASR Speech datasets survey
 |Bits per sample                    |Number of bits used for encoding each audio sample                                  |                                                                                  |
 |Age coverage                       |Is meta-data about speaker age present?                                             |Percent                                                                           |
 |Age balanced                       |                                                                                    |description                                                                       |
-
-
 
 ## Limitations
