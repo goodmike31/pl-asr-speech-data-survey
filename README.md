@@ -6,17 +6,22 @@ Polish ASR Speech datasets survey
 - Identification of ASR speech datasets for Polish, which are freely available for reseach and commercial purposes.
 <br>
 
-# Survey results 
-- 48 datasets were identified and described with up to 57 manually annotated attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
+# Survey results
+- **Forty-eight datasets** intended for Polish ASR development were identified
 - The **total** **size** of **documented Polish ASR speech data** amounts to over **20000** **hours** of **audio** and nearly **2500** **hours** of **transcribed** speech.
 - **One thousand hours** worth speech data are **available** online **free of charge ** 
 - Over **600 hours** of speech data available through commercial providers.
-* Detailed results are available: 
-* Polish ASR speech datasets catalog is available as:
+- Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
+* Detailed analysis results are available at: 
+* Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
 
-# Survey design
+# Contributions
+
+
+
+# Survey design  
 
 ## Information sources
 * Language Data Repositories
@@ -99,5 +104,8 @@ Polish ASR Speech datasets survey
 |Age coverage                       |Is meta-data about speaker age present?                                             |Percent                                                                           |
 |Age balanced                       |                                                                                    |description                                                                       |
 
+## Process
+- Publicly available documentation was analyzed and annotated manualy
+- Content of selected datasets, which were available in a public domain, was analyzed automatically
 
-# Survey results
+## Limitations
