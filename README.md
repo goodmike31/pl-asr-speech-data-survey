@@ -40,10 +40,14 @@ Polish ASR Speech datasets survey
   * PELCRA
   * Hamburger Zentrum fur Sprach Corpora HZSK
 * Other
-  * PolEval
-  * Search (keywords Polish, ASR, speech corpus, dataset) etc.
+  * PolEval competition
+  * [Google dataset search](https://datasetsearch.research.google.com/)
   * Kaggle
   * Hugging face
+  * Google Scholar Search (keywords: Polish, ASR, speech corpus, dataset, etc.)
+  * Google Web Search (keywords: Polish, ASR, speech corpus, dataset, etc.)
+
+
 
 ## Taxonomy
 - The dataset cards taxonomy consists of 57 attributes.
