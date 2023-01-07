@@ -31,23 +31,22 @@ Polish ASR Speech datasets survey
  
 ## Information sources
 * Language Data Repositories
-  * LDC Data Catalog
-  * ELRA Catalog
-  * META-SHARE repository
-  * CLARIN ERIC - Virtual Language Observatory
-  * CLARIN-PL - D-space
-  * Open Science Resource Atlas 2.0 (AZON)
-  * PELCRA
-  * Hamburger Zentrum fur Sprach Corpora HZSK
+  * [Open Speech and Language Resources](https://www.openslr.org/resources.php)
+  * [LDC Data Catalog](https://catalog.ldc.upenn.edu/)
+  * [ELRA Catalog](http://catalogue.elra.info/en-us/)
+  * [META-SHARE repository](http://www.meta-share.org/)
+  * [CLARIN ERIC - Virtual Language Observatory](https://vlo.clarin.eu/)
+  * [CLARIN-PL - D-space](https://clarin-pl.eu/dspace/)
+  * [Open Science Resource Atlas 2.0 (AZON)](https://zasobynauki.pl/)
+  * [PELCRA](http://pelcra.pl/new/tools_and_resources)
+  * [Hamburger Zentrum fur Sprach Corpora HZSK](https://corpora.uni-hamburg.de/hzsk/)
 * Other
-  * PolEval competition
+  * [PolEval 2019 competition](http://2019.poleval.pl/)
   * [Google dataset search](https://datasetsearch.research.google.com/)
-  * Kaggle
-  * Hugging face
-  * Google Scholar Search (keywords: Polish, ASR, speech corpus, dataset, etc.)
-  * Google Web Search (keywords: Polish, ASR, speech corpus, dataset, etc.)
-
-
+  * [Kaggle](https://www.kaggle.com/)
+  * [Hugging face](https://huggingface.co/)
+  * [Google Scholar Search](https://scholar.google.com/) (keywords: Polish, ASR, speech corpus, dataset, etc.)
+  * [Google Web Search](https://www.google.com/) (keywords: Polish, ASR, speech corpus, dataset, etc.)
 
 ## Taxonomy
 - The dataset cards taxonomy consists of 57 attributes.
