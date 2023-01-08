@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Polish ASR Speech Datasets Survey
-description:
+title: Polish ASR Speech Datasets Catalog
+description: ""
 show_downloads: true
 markdown: GFM
