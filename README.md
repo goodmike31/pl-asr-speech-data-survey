@@ -1,21 +1,21 @@
-Polish ASR speech data survey and catalog
+Polish ASR speech data survey and catalog.
 
 # Survey goals
-- Organization of publicly available information about Polish ASR speech datasets into dataset catalog.
-- Providing ASR community with the collectively maintained, up-to-date source of information about available resources.
+- Organization of publicly available information about Polish ASR speech datasets into the catalog.
+- Providing ASR community with the collectively maintained, up-to-date source of information about available datasets.
 - Identification of ASR speech datasets for Polish, which are freely available for reseach and commercial purposes.
 <br>
 
 # Survey results
-- **Forty-eight datasets** intended for Polish ASR development were identified
-- The **total** **size** of **documented Polish ASR speech data** amounts to over **20000** **hours** of **audio** and nearly **2500** **hours** of **transcribed** speech.
+- **Fifty-one datasets** intended for Polish ASR development were identified
+- The **total** **size** of **documented Polish ASR speech data** amounts to over **26400** **hours** of **audio** and nearly **5300** **hours** of **transcribed** speech.
 - **One thousand hours** worth speech data is **available** in a public domain
-- Over **600 hours** of speech data available through commercial providers. See [Public domain PL ASR speech datasets]
+- Over **3100 hours** of speech data available through commercial providers. See [Public domain PL ASR speech datasets]
 - Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
 * Detailed analysis results are available at: 
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
-  * [TSV](https://github.com/goodmike31/pl-asr-datasets-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
+  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/Polish%20ASR%20speech%20datasets%20catalog%20-%20PL%20ASR%20speech%20datasets%20catalog_230101.tsv)
   
 # How to contribute to the Polish ASR speech datasets catalog 
 
@@ -55,9 +55,6 @@ Polish ASR speech data survey and catalog
   - availability, licensing, pricing etc.
   - content e.g. audio format, number of speakers recorded, meta-data distributions, etc.
 - Values of attributes not reported by dataset authors, publishers or researchers is recreated, when feasible (e.g. number of recordings)
-- Below table shows the dataset card completion rates for manually annotated attributes is.
-  - (tabelka)
-
 - Full taxonomy is presented in the table below.
 
 |Dataset descriptor                 |Purpose                                                                             |Allowed values                                                                    |
