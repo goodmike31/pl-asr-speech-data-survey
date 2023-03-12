@@ -6,13 +6,13 @@ Polish ASR speech data survey and catalog.
 - Identification of ASR speech datasets for Polish, which are freely available for research and commercial purposes.
 <br>
 
-# Survey results
-- **Fifty-one datasets** intended for Polish ASR development were identified
+# Survey results:
+- **Fifty-one datasets** intended for Polish ASR development were identified based on the information available in the public domain.
 - The **total** **size** of **documented Polish ASR speech data** amounts to over **26400** **hours** of **audio** and nearly **5300** **hours** of **transcribed** speech.
-- **One thousand hours** worth speech data is **available** in a public domain
+- **One thousand hours** worth speech data is **available** in a public domain.
 - Over **3100 hours** of speech data available through commercial providers. See [Public domain PL ASR speech datasets]
 - Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
-* Detailed analysis results are available at: 
+* Detailed analysis results will be available in the article soon.
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-datasets-catalog-latest.tsv)
@@ -34,8 +34,8 @@ Polish ASR speech data survey and catalog.
 # Addendum - Survey design  
 
 ## Dataset characteristics analysis process
-- Publicly available information sources were analyzed, annotated, and standardized according to the Taxonomy
-- Additionally, the content of publicly available datasets was analyzed automatically
+- Publicly available information sources were analyzed, annotated, and standardized according to the taxonomy of 57 attributes.
+- Additionally, the content of publicly available datasets was analyzed automatically.
  
 ## Information sources
 * Language Data Repositoriesadc.upenn.edu/)
