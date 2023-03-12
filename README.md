@@ -2,8 +2,8 @@ Polish ASR speech data survey and catalog.
 
 # Survey goals
 - Organization of publicly available information about Polish ASR speech datasets into the catalog.
-- Providing ASR community with the collectively maintained, up-to-date source of information about available datasets.
-- Identification of ASR speech datasets for Polish, which are freely available for reseach and commercial purposes.
+- Providing the ASR community with a collectively maintained, up-to-date source of information about available datasets.
+- Identification of ASR speech datasets for Polish, which are freely available for research and commercial purposes.
 <br>
 
 # Survey results
@@ -15,9 +15,10 @@ Polish ASR speech data survey and catalog.
 * Detailed analysis results are available at: 
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
-  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/Polish%20ASR%20speech%20datasets%20catalog%20-%20PL%20ASR%20speech%20datasets%20catalog_230101.tsv)
+  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
   
 # How to contribute to the Polish ASR speech datasets catalog 
+1. Please open an issue 
 
 # How to identify public domain PL ASR speech datasets
 1. Open [Catalog](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
@@ -25,9 +26,9 @@ Polish ASR speech data survey and catalog.
 
 # Addendum - Survey design  
 
-## Dataset charateristics analysis process
-- Publicly available Infomration sources were analyzed, annotated and standardized according to the Taxonomy
-- Additionaly, the content of publicly available datasets was analyzed automatically
+## Dataset characteristics analysis process
+- Publicly available information sources were analyzed, annotated, and standardized according to the Taxonomy
+- Additionally, the content of publicly available datasets was analyzed automatically
  
 ## Information sources
 * Language Data Repositories
@@ -50,11 +51,12 @@ Polish ASR speech data survey and catalog.
 
 ## Taxonomy
 - The dataset cards taxonomy consists of 57 attributes.
-- Each dataset is described ain terms of:
-  - authorship, creation date, funding etc.
-  - availability, licensing, pricing etc.
+- Each dataset is described in terms of:
+  - authorship, creation date, funding, etc.
+  - availability, licensing, pricing, etc.
   - content e.g. audio format, number of speakers recorded, meta-data distributions, etc.
-- Values of attributes not reported by dataset authors, publishers or researchers is recreated, when feasible (e.g. number of recordings)
+- Values of attributes not reported by dataset authors, publishers, or researchers are recreated, when feasible (e.g. number of recordings)
 - Full taxonomy is available [here](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing).
 
 ## Limitations
+Collected meta-data organized into the catalog and used to draw findings is based on the information available online, mostly originating from datasets authors, language repositories, and scientific articles. In case any source values contain errors, resulting metrics and derived observations may be biased or not accurate as well. Additionally, despite of author’s best efforts to validate manually collected data before the publication, the catalog may contain inaccurate information resulting the curation-related error. The author hopes that making the catalog publicly available to the community will enable collective curation of the catalog and taxonomy, especially the correction of errors in the catalog meta-data. The author plans to reach out to dataset creators to discuss missing values, availability of datasets with unknown status, as well as licensing and re-usage of all existing datasets for the Polish ASR benchmarking purposes. Last but not least, all datasets available online were downloaded and are being analyzed automatically, to draw new insights data and verify values reported by the authors in the documentation.
