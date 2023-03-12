@@ -63,7 +63,7 @@ Polish ASR speech datasets survey and catalog.
 - Values of attributes not reported by dataset authors, publishers, or researchers are recreated, when feasible (e.g. number of recordings)
 - Full taxonomy is available as:
   - [Google sheet](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
-  - [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-datasets-taxonomy-latest.tsv)
+  - [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-speech-datasets-taxonomy-latest.tsv)
 
 
 ## Limitations
