@@ -19,12 +19,12 @@ Polish ASR speech data survey and catalog.
   
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
-* Open an issue on github, describe it and label as "bug"
-* (alteranively) Leave a comment in the Google Sheet
+* Open an issue on github, describe it and label as "bug".
+* (alternatively) Leave a comment in the Google Sheet.
 
 ## 2. To propose an enhancement to the catalog taxonomy:
-* Open an issue on github, describe your proposal (motivation, descriptor name and its description) and label it as "enhancement"
-* (Alternatively) Leave a comment in the Google Sheet with the 
+* Open an issue on github, describe your proposal (descriptor name, meaning and motivation) and label it as "enhancement".
+* (alternatively) Leave a comment in the Google Sheet and describe your proposal.
 
 
 # How to identify public domain PL ASR speech datasets
@@ -38,9 +38,7 @@ Polish ASR speech data survey and catalog.
 - Additionally, the content of publicly available datasets was analyzed automatically
  
 ## Information sources
-* Language Data Repositories
-  * [Open Speech and Language Resources](https://www.openslr.org/resources.php)
-  * [LDC Data Catalog](https://catalog.ldc.upenn.edu/)
+* Language Data Repositoriesadc.upenn.edu/)
   * [ELRA Catalog](http://catalogue.elra.info/en-us/)
   * [META-SHARE repository](http://www.meta-share.org/)
   * [CLARIN ERIC - Virtual Language Observatory](https://vlo.clarin.eu/)
