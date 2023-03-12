@@ -15,8 +15,8 @@ Polish ASR speech data survey and catalog.
 * Detailed analysis results are available at: 
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
-  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/pl-asr-datasets-catalog-latest.tsv)
-  
+  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-datasets-catalog-latest.tsv)
+
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
 * Open an issue on github, describe it and label as "bug".
@@ -61,7 +61,10 @@ Polish ASR speech data survey and catalog.
   - availability, licensing, pricing, etc.
   - content e.g. audio format, number of speakers recorded, meta-data distributions, etc.
 - Values of attributes not reported by dataset authors, publishers, or researchers are recreated, when feasible (e.g. number of recordings)
-- Full taxonomy is available [here](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing).
+- Full taxonomy is available as:
+  - [Google sheet](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
+  - [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-datasets-taxonomy-latest.tsv)
+
 
 ## Limitations
 Collected meta-data organized into the catalog and used to draw findings is based on the information available online, mostly originating from datasets authors, language repositories, and scientific articles. In case any source values contain errors, resulting metrics and derived observations may be biased or not accurate as well. Additionally, despite of author’s best efforts to validate manually collected data before the publication, the catalog may contain inaccurate information resulting the curation-related error. The author hopes that making the catalog publicly available to the community will enable collective curation of the catalog and taxonomy, especially the correction of errors in the catalog meta-data. The author plans to reach out to dataset creators to discuss missing values, availability of datasets with unknown status, as well as licensing and re-usage of all existing datasets for the Polish ASR benchmarking purposes. Last but not least, all datasets available online were downloaded and are being analyzed automatically, to draw new insights data and verify values reported by the authors in the documentation.
