@@ -1,4 +1,4 @@
-Polish ASR speech data survey and catalog.
+Polish ASR speech datasets survey and catalog.
 
 # Survey goals
 - Organization of publicly available information about Polish ASR speech datasets into the catalog.
@@ -15,7 +15,7 @@ Polish ASR speech data survey and catalog.
 * Detailed analysis results will be available in the article soon.
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
-  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-datasets-catalog-latest.tsv)
+  * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/snapshots/pl-asr-datasets-catalog-latest.tsv)
 
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
