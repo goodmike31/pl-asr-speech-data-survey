@@ -8,9 +8,9 @@ Polish ASR speech datasets survey and catalog.
 
 # Survey results:
 - **Fifty-one datasets** intended for Polish ASR development were identified based on the information available in the public domain.
-- The **total** **size** of **documented Polish ASR speech data** amounts to over **26400** **hours** of **audio** and nearly **5300** **hours** of **transcribed** speech.
-- **One thousand hours** worth speech data is **available** in a public domain.
-- Over **3100 hours** of speech data available through commercial providers.
+- The **total** **size** of **documented Polish ASR speech data** amounts to approx. **26400** **hours** of **audio** and **5300** **hours** of **transcribed** speech.
+- **One thousand hours** worth of speech data is **available** in a public domain.
+- Over **3100 hours** of speech data is available through commercial providers.
 - Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
 * Detailed analysis results will be available in the article soon.
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
@@ -19,17 +19,17 @@ Polish ASR speech datasets survey and catalog.
 
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
-* Open an issue on github, describe it and label as "bug".
+* Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe it and label it as "bug".
 * (alternatively) Leave a comment in the Google Sheet.
 
 ## 2. To propose an enhancement to the catalog taxonomy:
-* Open an issue on github, describe your proposal (descriptor name, meaning and motivation) and label it as "enhancement".
+* Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe your proposal (descriptor name, meaning and motivation) and label it as "enhancement".
 * (alternatively) Leave a comment in the Google Sheet and describe your proposal.
 
 
 # How to identify public domain PL ASR speech datasets
-1. Open [Catalog](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
-2. Filter results by column "Usage cost" by allowing only "free" values
+1. Open the [catalog](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
+2. Set filter on **Usage cost** column to **free**
 
 # Addendum - Survey design  
 
