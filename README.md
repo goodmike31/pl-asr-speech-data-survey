@@ -11,7 +11,7 @@ Polish ASR speech datasets survey and catalog.
 - The **total** **size** of **documented Polish ASR speech data** amounts to approx. **26400** **hours** of **audio** and **5300** **hours** of **transcribed** speech.
 - **One thousand hours** worth of speech data is **available** in a public domain.
 - Over **3100 hours** of speech data is available through commercial providers.
-- Each dataset is described with up to 57 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
+- Each dataset is described with up to 60 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
 * Detailed analysis results will be available in the article soon.
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
@@ -55,7 +55,7 @@ Polish ASR speech datasets survey and catalog.
   * [Google Web Search](https://www.google.com/) (keywords: Polish, ASR, speech corpus, dataset, etc.)
 
 ## Taxonomy
-- The dataset cards taxonomy consists of 57 attributes.
+- The dataset cards taxonomy consists of 60 attributes.
 - Each dataset is described in terms of:
   - authorship, creation date, funding, etc.
   - availability, licensing, pricing, etc.
