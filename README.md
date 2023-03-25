@@ -11,7 +11,7 @@ Polish ASR speech datasets survey and catalog.
 - The **total** **size** of **documented Polish ASR speech data** amounts to approx. **26400** **hours** of **audio** and **5300** **hours** of **transcribed** speech.
 - **One thousand hours** worth of speech data is **available** in a public domain.
 - Over **3100 hours** of speech data is available through commercial providers.
-- Each dataset is described with up to 60 attributes. See [Taxonomy](https://github.com/goodmike31/pl-asr-speech-data-survey#taxonomy) for details.
+- Each dataset is described with up to 60 attributes. See [Attributes description](https://github.com/goodmike31/pl-asr-speech-data-survey#attributes) for details.
 * Detailed analysis results will be available in the article soon.
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
@@ -22,8 +22,8 @@ Polish ASR speech datasets survey and catalog.
 * Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe it and label it as "bug".
 * (alternatively) Leave a comment in the Google Sheet.
 
-## 2. To propose an enhancement to the catalog taxonomy:
-* Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe your proposal (descriptor name, meaning and motivation) and label it as "enhancement".
+## 2. To propose adding or modyfing catalog attributes:
+* Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe your proposal (attribute name, meaning and motivation) and label it as "enhancement".
 * (alternatively) Leave a comment in the Google Sheet and describe your proposal.
 
 
@@ -34,7 +34,7 @@ Polish ASR speech datasets survey and catalog.
 # Addendum - Survey design  
 
 ## Dataset characteristics analysis process
-- Publicly available information sources were analyzed, annotated, and standardized according to the taxonomy of 57 attributes.
+- Publicly available information sources were analyzed, annotated, and standardized with 60 attributes.
 - Additionally, the content of publicly available datasets was analyzed automatically.
  
 ## Information sources
@@ -54,17 +54,17 @@ Polish ASR speech datasets survey and catalog.
   * [Google Scholar Search](https://scholar.google.com/) (keywords: Polish, ASR, speech corpus, dataset, etc.)
   * [Google Web Search](https://www.google.com/) (keywords: Polish, ASR, speech corpus, dataset, etc.)
 
-## Taxonomy
-- The dataset cards taxonomy consists of 60 attributes.
-- Each dataset is described in terms of:
+## Catalog attributes
+- Each dataset is described with up to 60 attributes covering:
   - authorship, creation date, funding, etc.
   - availability, licensing, pricing, etc.
   - content e.g. audio format, number of speakers recorded, meta-data distributions, etc.
 - Values of attributes not reported by dataset authors, publishers, or researchers are recreated, when feasible (e.g. number of recordings)
-- Full taxonomy is available as:
+- Full list of attributes, their purpose and allowed values is available as:
   - [Google sheet](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   - [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-speech-datasets-taxonomy-latest.tsv)
 
 
 ## Limitations
-Collected meta-data organized into the catalog and used to draw findings is based on the information available online, mostly originating from datasets authors, language repositories, and scientific articles. In case any source values contain errors, resulting metrics and derived observations may be biased or not accurate as well. Additionally, despite of author’s best efforts to validate manually collected data before the publication, the catalog may contain inaccurate information resulting the curation-related error. The author hopes that making the catalog publicly available to the community will enable collective curation of the catalog and taxonomy, especially the correction of errors in the catalog meta-data. The author plans to reach out to dataset creators to discuss missing values, availability of datasets with unknown status, as well as licensing and re-usage of all existing datasets for the Polish ASR benchmarking purposes. Last but not least, all datasets available online were downloaded and are being analyzed automatically, to draw new insights data and verify values reported by the authors in the documentation.
+The metadata collected for the catalog and used to draw conclusions is primarily based on information available online in language repositories and scientific articles. When feasible, it was further verified through manual inspection of dataset content and discussion with dataset authors. Despite our best efforts, some important metadata values may be missing. Naturally, if the original source of metadata contained errors, the resulting values in the catalog, as well as metrics and derived observations, may be biased or inaccurate. Additionally, despite our best efforts to manually validate all collected data before publication, the catalog may contain inaccuracies resulting from curation- related errors. 
+We hope that making the catalog publicly available to the community will enable collective curation of the catalog and taxonomy, particularly by ad- dressing any errors in the catalog metadata that have practical impact on the community. Engaging in discussions is also crucial for filling in missing values, establishing the availability of datasets with unknown status, and determining licensing and re-usage of existing datasets for Polish ASR benchmarking purposes. Lastly, all datasets available online are subject to automatic analysis to draw new insights from the data and verify values reported by the authors in the documentation. This process, however, may introduce additional limitations in terms of the accuracy and reliability of the resulting insights.
