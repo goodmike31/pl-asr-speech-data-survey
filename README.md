@@ -13,7 +13,7 @@ Polish ASR speech datasets survey and catalog.
 -  **For thousand five hundred and seventy (4570)** hours of speech is validated as accessible (79.5% of identified and cataloged speech material)
 - **One thousand and four hundred (1400)** hours of transcribed speech data is **available in a public domain**.
 -  **Three thousand one hundred seventy-one (3171) hours** of transcribed speech is **available through commercial providers**.
- <br>
+  
 - Each dataset in the catalog is described with up to 61 attributes. See the [Catalog attributes](https://github.com/goodmike31/pl-asr-speech-data-survey#attributes) for details.
 * Detailed analysis results will be available in the article soon.
 * Resulting Polish ASR speech datasets catalog is available in 2 formats:
