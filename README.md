@@ -19,10 +19,10 @@ Polish ASR speech datasets survey and catalog.
 
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
-* Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe it and label it as "bug".
+* Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe it, and label it as a "bug".
 * (alternatively) Leave a comment in the Google Sheet.
 
-## 2. To propose adding or modyfing catalog attributes:
+## 2. To propose adding or modifying catalog attributes:
 * Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe your proposal (attribute name, meaning and motivation) and label it as "enhancement".
 * (alternatively) Leave a comment in the Google Sheet and describe your proposal.
 
@@ -60,11 +60,21 @@ Polish ASR speech datasets survey and catalog.
   - availability, licensing, pricing, etc.
   - content e.g. audio format, number of speakers recorded, meta-data distributions, etc.
 - Values of attributes not reported by dataset authors, publishers, or researchers are recreated, when feasible (e.g. number of recordings)
-- Full list of attributes, their purpose and allowed values is available as:
+- Full list of attributes, their purpose, and allowed values are available as:
   - [Google sheet](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   - [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-speech-datasets-taxonomy-latest.tsv)
 
-
 ## Limitations
-The metadata collected for the catalog and used to draw conclusions is primarily based on information available online in language repositories and scientific articles. When feasible, it was further verified through manual inspection of dataset content and discussion with dataset authors. Despite our best efforts, some important metadata values may be missing. Naturally, if the original source of metadata contained errors, the resulting values in the catalog, as well as metrics and derived observations, may be biased or inaccurate. Additionally, despite our best efforts to manually validate all collected data before publication, the catalog may contain inaccuracies resulting from curation- related errors. 
-We hope that making the catalog publicly available to the community will enable collective curation of the catalog and taxonomy, particularly by ad- dressing any errors in the catalog metadata that have practical impact on the community. Engaging in discussions is also crucial for filling in missing values, establishing the availability of datasets with unknown status, and determining licensing and re-usage of existing datasets for Polish ASR benchmarking purposes. Lastly, all datasets available online are subject to automatic analysis to draw new insights from the data and verify values reported by the authors in the documentation. This process, however, may introduce additional limitations in terms of the accuracy and reliability of the resulting insights.
+The metadata collected for the catalog is primarily based on information available online in language repositories and scientific articles. When feasible, it was further verified through manual inspection of dataset content and discussion with dataset authors. Despite our best efforts, some important metadata values may be missing. Naturally, if the source of metadata contained errors, the resulting values in the catalog, as well as metrics and derived observations, may be biased or inaccurate. Additionally, despite our best efforts to manually validate all collected data before publication, the catalog may contain inaccuracies resulting from curation-related errors. 
+We hope that making the catalog publicly available to the community will enable collective curation of the catalog and taxonomy, particularly by ad- dressing any errors in the catalog metadata that have a practical impact on the community. Engaging in discussions is also crucial for filling in missing values, establishing the availability of datasets with unknown status, and determining licensing and re-usage of existing datasets for Polish ASR benchmarking purposes. Lastly, all datasets available online are subject to automatic analysis to draw new insights from the data and verify values reported by the authors in the documentation. This process, however, may introduce additional limitations in terms of the accuracy and reliability of the resulting insights.
+
+## Changelog 
+
+| Version | Date | Scope |
+| --- | ---------| ------------- |
+| 0.5 | 6 July 2023 | Changed "Creator or publisher" attribute to "UL" (University of Łódź) for corpora created by the PELCRA group.
+| 0.4 | 21 March 2023  | Fixed taxonomy link |
+| 0.3 | 12 March 2023 | Added github.io page
+| 0.2 | 22 February 2023 | Added datasets from Shaip company catalog | 
+| 0.1 | 15 January 2023 | Initial release |
+
