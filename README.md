@@ -1,5 +1,12 @@
 Polish ASR speech datasets survey and catalog.
 
+Important notice - before getting familiar with the Polish ASR speech data survey and catalog, please consider completing the [form](https://forms.gle/FL1obRfYMvgHVoEu5). Thank you!
+The survey goals are:
+a. Assessing the state of Polish ASR datasets from the community perspective.
+b. Improving the design of the Polish ASR speech datasets catalog.
+Each response is awarded by donation of 50 PLN to the chosen charity organization.
+[Form link](https://forms.gle/FL1obRfYMvgHVoEu5)
+
 # Survey goals
 - Organization of publicly available information about Polish ASR speech datasets into the catalog.
 - Providing the ASR community with a collectively maintained, up-to-date source of information about available datasets.
@@ -75,6 +82,7 @@ We hope that making the catalog publicly available to the community will enable 
 
 | Version | Date | Scope |
 | --- | ---------| ------------- |
+| 0.7 | 23 July 2023 | Added form for collecting feedback and assessment of catalog usability from the community perspective | 
 | 0.6 | 22 July 2023 | Added FLEURS and SpokesBiz corpora to the catalog. Updated survey summary statistics. Added "speakers education" attribute. |
 | 0.5 | 6 July 2023 | Changed "Creator or publisher" attribute to "UL" (University of Łódź) for corpora created by the PELCRA group.
 | 0.4 | 21 March 2023  | Fixed taxonomy link |
