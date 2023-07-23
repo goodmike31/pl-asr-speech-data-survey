@@ -4,9 +4,9 @@ Polish ASR speech datasets survey and catalog.
 Important - before getting familiar with the Polish ASR speech data survey and catalog, please consider completing the short feedback [form](https://forms.gle/FL1obRfYMvgHVoEu5).<br>
 Your feedback will help to assess the state of Polish ASR datasets from the community perspective and improve the design of the [Polish ASR speech datasets catalog.](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing) <br>
 Each response is awarded by donation of 50 PLN to the chosen charity organization. Thank you!
-[Form link](https://forms.gle/FL1obRfYMvgHVoEu5)
+[Feedback form link](https://forms.gle/FL1obRfYMvgHVoEu5)
 
-# Survey goals
+# Polish ASR speech data survey goals
 - Organization of publicly available information about Polish ASR speech datasets into the catalog.
 - Providing the ASR community with a collectively maintained, up-to-date source of information about available datasets.
 - Identification of ASR speech datasets for Polish, which are freely available for research and commercial purposes.
