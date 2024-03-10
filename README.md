@@ -19,12 +19,15 @@ Each response is awarded by donation of 50 PLN to the chosen charity organizatio
 -  **For thousand five hundred and seventy (4570)** hours of speech is validated as accessible (79.5% of identified and cataloged speech material)
 - **One thousand and four hundred (1400)** hours of transcribed speech data is **available in a public domain**.
 -  **Three thousand one hundred seventy-one (3171) hours** of transcribed speech is **available through commercial providers**.
-  
+    
 - Each dataset in the catalog is described with up to 61 attributes. See the [Catalog attributes](https://github.com/goodmike31/pl-asr-speech-data-survey#attributes) for details.
-* Detailed analysis results will be available in the article soon.
-* Resulting Polish ASR speech datasets catalog is available in 2 formats:
+* Detailed survey results can be found:
+  * In the article published in PSICL journal (Volume 60 Issue 1) [LINK] (https://www.degruyter.com/document/doi/10.1515/psicl-2023-0019/html)
+  * On interactive dashboard available on [Hugging Face](https://huggingface.co/spaces/amu-cai/pl-asr-survey).
+* Resulting Polish ASR speech datasets catalog is available in 3 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
   * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-speech-datasets-catalog-latest.tsv)
+  * [Hugging Face Space](https://huggingface.co/spaces/amu-cai/pl-asr-survey)
 
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
