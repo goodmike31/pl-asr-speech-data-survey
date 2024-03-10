@@ -49,7 +49,7 @@ lastchecked = {2024-03-10}<br>
     
 - Each dataset in the catalog is described with up to 61 attributes. See the [Catalog attributes](https://github.com/goodmike31/pl-asr-speech-data-survey#attributes) for details.
 * Detailed survey results can be found:
-  * In the article published in PSICL journal (Volume 60 Issue 1) [LINK] (https://www.degruyter.com/document/doi/10.1515/psicl-2023-0019/html)
+  * In the article published in PSICL journal (Volume 60 Issue 1) [LINK](https://www.degruyter.com/document/doi/10.1515/psicl-2023-0019/html)
   * On interactive dashboard available on [Hugging Face](https://huggingface.co/spaces/amu-cai/pl-asr-survey).
 * Resulting Polish ASR speech datasets catalog is available in 3 formats:
   * [Google Sheets](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
