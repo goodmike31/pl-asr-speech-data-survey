@@ -35,10 +35,17 @@ Each response is awarded by donation of 50 PLN to the chosen charity organizatio
 * Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe your proposal (attribute name, meaning, and motivation), and label it as "enhancement".
 * (alternatively) Leave a comment in the Google Sheet and describe your proposal.
 
-
 # How to identify public domain PL ASR speech datasets
 1. Open the [catalog](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
 2. Set filter on **Usage cost** column to **free**
+
+# How to cite this resource?
+@misc{junczyk-2023-pl-asr-speech-data-catalog,
+title = {Polish ASR Speech Datasets Catalog},
+author = {Michał Junczyk},
+year = {2023},
+publisher = {Github},
+url = {https://github.com/goodmike31/pl-asr-speech-data-survey} }
 
 # Addendum - Survey design  
 
