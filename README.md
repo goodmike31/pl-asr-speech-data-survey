@@ -43,12 +43,18 @@ Each response is awarded by donation of 50 PLN to the chosen charity organizatio
 2. Set filter on **Usage cost** column to **free**
 
 # How to cite this resource?
-@misc{junczyk-2023-pl-asr-speech-data-catalog, <br>
-title = {Polish ASR Speech Datasets Catalog},<br>
+@article{Junczyk+2024+27+52, <br>
+url = {https://doi.org/10.1515/psicl-2023-0019}, <br>
+title = {A survey of Polish ASR speech datasets}, <br>
 author = {Michał Junczyk},<br>
-year = {2023},<br>
-publisher = {Github},<br>
-url = {https://github.com/goodmike31/pl-asr-speech-data-survey} }
+pages = {27--52},<br>
+volume = {60},<br>
+number = {1},<br>
+journal = {Poznan Studies in Contemporary Linguistics},<br>
+doi = {doi:10.1515/psicl-2023-0019},<br>
+year = {2024},<br>
+lastchecked = {2024-03-10}<br>
+}
 <br>
 # Addendum - Survey design  
 
