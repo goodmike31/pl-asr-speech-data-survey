@@ -111,6 +111,7 @@ Hopefully making the catalog publicly available to the community will enable col
 
 | Version | Date | Scope |
 | --- | ---------| ------------- |
+| 1.1 | 29 March 2024 | Added exhaustive list of URLs [LINK](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit#gid=1678851899) for batch download of freely available datasets  |
 | 1.0 | 10 March 2024 | Added citation information. Added reference to [interactive browser and dashboard](https://huggingface.co/spaces/amu-cai/pl-asr-survey) with survey insights on Hugging Face. | 
 | 0.8 | 19 December 2023| Updated SpokeBiz corpus metadata (hours, speakers, recordings) based on http://docs.pelcra.pl/doku.php?id=spokesbiz |
 | 0.7 | 23 July 2023 | Added form for collecting feedback and assessment of catalog usability from the community perspective | 
