@@ -47,7 +47,7 @@ lastchecked = {2024-03-10}<br>
 - **One thousand and four hundred (1400)** hours of transcribed speech data is **available in a public domain**.
 -  **Three thousand one hundred seventy-one (3171) hours** of transcribed speech is **available through commercial providers**.
     
-- Each dataset in the catalog is described with up to 61 attributes. See the [Catalog attributes](https://github.com/goodmike31/pl-asr-speech-data-survey#attributes) for details.
+- Each dataset in the catalog is described with up to 65 attributes. See the [Catalog attributes](https://github.com/goodmike31/pl-asr-speech-data-survey#attributes) for details.
 * Detailed survey results can be found:
   * In the article published in PSICL journal (Volume 60 Issue 1) [LINK](https://www.degruyter.com/document/doi/10.1515/psicl-2023-0019/html)
   * On interactive dashboard available on [Hugging Face](https://huggingface.co/spaces/amu-cai/pl-asr-survey).
