@@ -6,40 +6,9 @@ Polish ASR speech datasets survey and catalog.
 - Identification of ASR speech datasets for Polish, which are freely available for research and commercial purposes.
 <br>
 
-# Request for feedback
-Before getting familiar with the Polish ASR speech data survey and catalog, please consider completing the short (5 min) feedback [form](https://forms.gle/FL1obRfYMvgHVoEu5).<br>
-Your feedback will help to assess the state of Polish ASR datasets from the community perspective.
-Each response is awarded by donation of 50 PLN to the chosen charity organization. Thank you!
-[Feedback form link](https://forms.gle/FL1obRfYMvgHVoEu5)
+Visit [Hugging Face Space](https://huggingface.co/spaces/amu-cai/pl-asr-survey) for the interactive data catalog.
 
-# How to cite?
-If you use the raw data from the catalog, please cite.
-```bibtex
-@Misc{pl-asr-speech-data-survey,
-  author =       {Micha{\l} Junczyk},
-  title =        {Polish ASR speech data catalog},
-  howpublished = {Github},
-  year =         {2023},
-  url =          {https://github.com/goodmike31/pl-asr-speech-data-survey}
-}
-```
-If you use the survey results, please cite the corresponding article:
-```bibtex
-@article{Junczyk+2024+27+52, <br>
-url = {https://doi.org/10.1515/psicl-2023-0019}, <br>
-title = {A survey of Polish ASR speech datasets}, <br>
-author = {Micha{\l} Junczyk},<br>
-pages = {27--52},<br>
-volume = {60},<br>
-number = {1},<br>
-journal = {Poznan Studies in Contemporary Linguistics},<br>
-doi = {doi:10.1515/psicl-2023-0019},<br>
-year = {2024},<br>
-lastchecked = {2024-03-10}<br>
-}
-```
-
-# Survey results:
+# Results overview:
 - **Fifty-three datasets (53)** intended for Polish ASR development were identified based on the information available in the public domain.
 - **Fourty-four (44)** out of 53 identified datasets are accessible. 
 - The **total** **size** of **documented Polish ASR speech data** amounts to approx. **26860** **hours** of **audio** and **5744** **hours** of **transcribed** speech.
@@ -56,6 +25,46 @@ lastchecked = {2024-03-10}<br>
   * [TSV](https://github.com/goodmike31/pl-asr-speech-data-survey/blob/main/snapshots/pl-asr-speech-datasets-catalog-latest.tsv)
   * [Hugging Face Space](https://huggingface.co/spaces/amu-cai/pl-asr-survey)
 
+# How to cite?
+If you use only the survey results, please cite the corresponding article:
+```bibtex
+@article{Junczyk+2024+27+52, <br>
+url = {https://doi.org/10.1515/psicl-2023-0019}, <br>
+title = {A survey of Polish ASR speech datasets}, <br>
+author = {Micha{\l} Junczyk},<br>
+pages = {27--52},<br>
+volume = {60},<br>
+number = {1},<br>
+journal = {Poznan Studies in Contemporary Linguistics},<br>
+doi = {doi:10.1515/psicl-2023-0019},<br>
+year = {2024},<br>
+lastchecked = {2024-03-10}<br>
+}
+```
+
+If you use the raw data from the catalog, please cite.
+```bibtex
+@Misc{pl-asr-speech-data-survey,
+  author =       {Micha{\l} Junczyk},
+  title =        {Polish ASR speech data catalog},
+  howpublished = {Github},
+  year =         {2023},
+  url =          {https://github.com/goodmike31/pl-asr-speech-data-survey}
+}
+
+```
+If you use the interactive speech data catalog, please cite.
+```bibtex
+@Misc{pl-asr-speech-data-survey,
+  author =       {Micha{\l} Junczyk},
+  title =        {Polish ASR speech survey},
+  howpublished = {Hugging face},
+  year =         {2024},
+  url =          {https://huggingface.co/spaces/amu-cai/pl-asr-survey}
+}
+```
+
+
 # How to contribute to the Polish ASR speech datasets catalog 
 ## 1. To report a bug in the catalog:
 * Open an [issue](https://github.com/goodmike31/pl-asr-speech-data-survey/issues), describe it, and label it as a "bug".
@@ -68,6 +77,14 @@ lastchecked = {2024-03-10}<br>
 # How to identify public domain PL ASR speech datasets
 1. Open the [catalog](https://docs.google.com/spreadsheets/d/181EDfwZNtHgHFOMaKNtgKssrYDX4tXTJ9POMzBsCRlI/edit?usp=sharing)
 2. Set filter on **Usage cost** column to **free**
+
+<br>
+
+# Request for feedback
+Before getting familiar with the Polish ASR speech data survey and catalog, please consider completing the short (5 min) feedback [form](https://forms.gle/FL1obRfYMvgHVoEu5).<br>
+Your feedback will help to assess the state of Polish ASR datasets from the community perspective.
+Each response is awarded by donation of 50 PLN to the chosen charity organization. Thank you!
+[Feedback form link](https://forms.gle/FL1obRfYMvgHVoEu5)
 
 <br>
 # Addendum - Survey design  
