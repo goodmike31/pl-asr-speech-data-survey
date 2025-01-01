@@ -90,7 +90,7 @@ Each response is awarded by donation of 50 PLN to the chosen charity organizatio
 # Addendum - Survey design  
 
 ## Dataset characteristics analysis process
-- Publicly available information sources were analyzed, annotated, and standardized with 60 attributes.
+- Publicly available information sources were analyzed, annotated, and standardized with 65 attributes.
 - Additionally, the content of publicly available datasets was analyzed automatically.
  
 ## Information sources
